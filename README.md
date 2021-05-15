@@ -1,3 +1,5 @@
+![6Perfect](https://user-images.githubusercontent.com/56047088/118358645-786f8700-b59d-11eb-9b5e-657ca82596c7.jpg)
+![GUI popup window](https://user-images.githubusercontent.com/56047088/118358688-a1901780-b59d-11eb-9735-7460877e8bc6.png)
 # This is a brain tumor project based on image processing made using matlab.
 
 We are going to detect brain tumor using matlab and basic knowledge of image processing.
