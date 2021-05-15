@@ -1,7 +1,9 @@
 ![6Perfect](https://user-images.githubusercontent.com/56047088/118358833-4ad70d80-b59e-11eb-83f8-a0827ef4c0c7.jpg)
 ![GUI popup window](https://user-images.githubusercontent.com/56047088/118358839-4f9bc180-b59e-11eb-889e-e18c3d50b0a5.png)
 ![Uploading image](https://user-images.githubusercontent.com/56047088/118358844-51fe1b80-b59e-11eb-9841-becbcd1814fc.png)
-![Uploading After Detection.png…]()
+![After Detection](https://user-images.githubusercontent.com/56047088/118358950-b620df80-b59e-11eb-9382-98ecbb41c183.png)![Uploading After Detection.png…]()
+![A message after clicking on help](https://user-images.githubusercontent.com/56047088/118358959-c3d66500-b59e-11eb-9907-1b132a08f243.png)
+
 ![Uploading A message after clicking on help.png…]()
 
 # This is a brain tumor project based on image processing made using matlab.
