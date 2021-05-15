@@ -1,6 +1,6 @@
 ![6Perfect](https://user-images.githubusercontent.com/56047088/118358833-4ad70d80-b59e-11eb-83f8-a0827ef4c0c7.jpg)
 ![GUI popup window](https://user-images.githubusercontent.com/56047088/118358839-4f9bc180-b59e-11eb-889e-e18c3d50b0a5.png)
-![Uploading Uploading image.png…]()
+![Uploading image](https://user-images.githubusercontent.com/56047088/118358844-51fe1b80-b59e-11eb-9841-becbcd1814fc.png)
 ![Uploading After Detection.png…]()
 ![Uploading A message after clicking on help.png…]()
 
